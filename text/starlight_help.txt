@@ -1,0 +1,4 @@
+        ⚡ **Starlight Verify** ⚡
+
+To verify yourself, type `v!verify` into chat
+and follow the instructions.
